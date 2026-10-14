@@ -1,0 +1,13 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Win32/
+Debug/
+Release/
+*.user
+*.aps
+*.ipch
+*.VC.db
+*.VC.opendb
